@@ -1,0 +1,6 @@
+2025-08-18 11:13:23,855-test-ERROR
+Traceback (most recent call last):
+  File "E:\Intermediate_python\logging1\logging_exceptions.py", line 6, in <module>
+    1/0
+    ~^~
+ZeroDivisionError: division by zero
